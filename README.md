@@ -1,8 +1,12 @@
-# helllo-world-web
-porjekt wyswietla "Hello world"
+# hello-world-web
+
+Prosty projekt webowy wyświetlający stronę z napisem "Hello, World!".
+
 ## Instalacja
-Sklonuj repozytorium i wpisz tą komendę
+
+Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/Avylis/helllo-world-web/tree/main
+git clone https://github.com/Avylis/hello-world-web.git
 cd hello-world-web
+
